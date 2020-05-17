@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+
+theme: jekyll-theme-cayman
+title: "Introdução à Programação com JavaScript"
+show_downloads: ["true"]
