@@ -1,4 +1,4 @@
-# Introdução à Programação com Java
+# Introdução à Programação com Java ☕️
 
 Este material se baseia na apostila de Introdução à Programação com JavaScript e aborda os principais conteúdos da programação estruturada com a linguagem de programação Java. E, já que mencionamos JavaScript, se você está começando em programação por agora, entenda que Java e JavaScript são duas linguagens de programação completamente diferentes uma da outra.
 
