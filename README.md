@@ -172,7 +172,7 @@ static void imprimeMenorDivisor(int numero) {
 }
 ```
 
-### 10.3. Funções recursivas
+### 1.3 Funções recursivas
 
 Uma função é considerada recursiva quando se refere a si mesma, ou seja, quando invoca a si mesma. A função recursiva a seguir retorna o valor do fatorial do número passado por parâmetro.
 
