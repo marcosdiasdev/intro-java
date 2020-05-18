@@ -454,19 +454,20 @@ Todas as funções desta lista acompanham tipos de retorno e de parâmetros.
 2. Crie uma função `int soma(int x, int y)` que receba dois números como parâmetros e retorne sua soma.
 3. Crie uma função `int quadrado(int num)` que receba um número como parâmetro e retorne o seu quadrado.
 4. Crie uma função `int cubo(int num)` que receba um número como parâmetro e retorne o seu cubo.
-5. Crie uma função `int potencia(int num, int expoente)` que receba como parâmetros um número e um expoente, e retorne sua potenciação/exponenciação.
-6. Crie uma função `float imc(float peso, float altura)` que receba os parâmetros `peso` e `altura`, e retorne o Índice de Massa Corporal resultante.
-7. Crie uma função `double calculaAreaQuadrado(double lado)` que calcule e retorne a área de um quadrado com base na medida de seu lado.
-8. Crie uma função `double calculaAreaRetangulo(double largura, double altura)` que calcule e retorne a área de um retângulo com base em sua largura e altura.
-9. Crie uma função `double calculaAreaCirculo(double raio)` que calcule e retorne a área de um círculo com base em seu raio.
-10. Crie uma função `void mostrarNomes(String[] nomes)` que receba um vetor de nomes como parâmetro, percorra cada uma de suas posições e as escreva separadamente no console.
-11. Crie uma função `boolean matrizNula(int[][] matriz)` que receba uma matriz de inteiros como parâmetro, e retorne `true` caso a matriz seja nula ou `false` caso contrário.
-12. Crie uma função `boolean matrizQuadrada(int[][] matriz)` que receba uma matriz de inteiros como parâmetro, e retorne `true` caso a matriz seja quadrada ou `false` caso contrário.
-13. Crie uma função `boolean matrizDiagonal(int[][] matriz)` que receba uma matriz de inteiros como parâmetro, e retorne `true` caso a matriz seja diagonal ou `false` caso contrário. Utilize a função `matrizQuadrada` para verificar se a matriz é quadrada antes de verificar se é uma matriz diagonal.
-14. Crie uma função `double soma(double... termos)` que retorne o resultado da soma de um número indefinido de `termos`.
-15. Crie uma função `double mediaAritmetica(double... termos)` que receba como parâmetro um número indefinido de `termos` e retorne a média aritmética resultante.
-16. Crie uma função `boolean ehPrimo(int numero)` que receba um número natural como parâmetro e retorne `true` caso o número seja primo ou `false` caso contrário.
-17. Crie uma função `boolean ehPerfeito(int numero)` que receba um número natural como parâmetro e retorne `true` caso o número seja perfeito ou `false` caso contrário. Um número é perfeito quando é igual à soma dos seus divisores sem contar com ele mesmo. Ex.: 6 é perfeito porque `1 + 2 + 3 = 6`.
+5. Crie uma função `int potencia(int num, int expoente)` que receba como parâmetros um número (`num`) e um expoente, e retorne sua potenciação/exponenciação.
+6. Crie uma função recursiva `int potencia(int num, int expoente)` que receba como parâmetros um número (`num`) e um expoente, e retorne a potenciação/exponenciação de `num` elevado a `expoente`. Nesta função não são permitidas estruturas de repetição.
+7. Crie uma função `float imc(float peso, float altura)` que receba os parâmetros `peso` e `altura`, e retorne o Índice de Massa Corporal resultante.
+8. Crie uma função `double calculaAreaQuadrado(double lado)` que calcule e retorne a área de um quadrado com base na medida de seu lado.
+9. Crie uma função `double calculaAreaRetangulo(double largura, double altura)` que calcule e retorne a área de um retângulo com base em sua largura e altura.
+10. Crie uma função `double calculaAreaCirculo(double raio)` que calcule e retorne a área de um círculo com base em seu raio.
+11. Crie uma função `void mostrarNomes(String[] nomes)` que receba um vetor de nomes como parâmetro, percorra cada uma de suas posições e as escreva separadamente no console.
+12. Crie uma função `boolean matrizNula(int[][] matriz)` que receba uma matriz de inteiros como parâmetro, e retorne `true` caso a matriz seja nula ou `false` caso contrário.
+13. Crie uma função `boolean matrizQuadrada(int[][] matriz)` que receba uma matriz de inteiros como parâmetro, e retorne `true` caso a matriz seja quadrada ou `false` caso contrário.
+14. Crie uma função `boolean matrizDiagonal(int[][] matriz)` que receba uma matriz de inteiros como parâmetro, e retorne `true` caso a matriz seja diagonal ou `false` caso contrário. Utilize a função `matrizQuadrada` para verificar se a matriz é quadrada antes de verificar se é uma matriz diagonal.
+15. Crie uma função `double soma(double... termos)` que retorne o resultado da soma de um número indefinido de `termos`.
+16. Crie uma função `double mediaAritmetica(double... termos)` que receba como parâmetro um número indefinido de `termos` e retorne a média aritmética resultante.
+17. Crie uma função `boolean ehPrimo(int numero)` que receba um número natural como parâmetro e retorne `true` caso o número seja primo ou `false` caso contrário.
+18. Crie uma função `boolean ehPerfeito(int numero)` que receba um número natural como parâmetro e retorne `true` caso o número seja perfeito ou `false` caso contrário. Um número é perfeito quando é igual à soma dos seus divisores sem contar com ele mesmo. Ex.: 6 é perfeito porque `1 + 2 + 3 = 6`.
 
 ## Referências
 
