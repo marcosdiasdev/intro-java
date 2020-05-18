@@ -11,5 +11,5 @@ include:
 
 theme: jekyll-theme-cayman
 title: "Introdução à Programação com Java ☕️"
-show_downloads: "false"
+show_downloads: false
 google_analytics: "UA-166869949-1"
