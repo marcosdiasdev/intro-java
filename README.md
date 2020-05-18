@@ -8,6 +8,7 @@ Não tenha pressa. Leia com atenção e seja persistente. A programação de com
 
 Bons estudos!
 
+## Sumário
 {% include toc.html html=content %}
 
 ## 1 Funções (Métodos)
