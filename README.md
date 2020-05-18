@@ -8,6 +8,18 @@ Não tenha pressa. Leia com atenção e seja persistente. A programação de com
 
 Bons estudos!
 
+## Sumário
+1. [Lista 1 - Expressões, entrada e saída de dados]()
+1. [Lista 2 - Estruturas de decisão: Se/Senão]()
+1. [Lista 3 - Estruturas de decisão: Escolha/Caso]()
+1. [Lista 4 - Laços de Repetição: Enquanto e Faça/Enquanto]()
+1. [Lista 5 - Laços de Repetição: Para]()
+1. [Lista 6 - Desafios com Laços de Repetição]()
+1. [Lista 7 - Vetores]()
+1. [Lista 8 - Matrizes]()
+1. [Lista 9 - Funções]()
+1. [Referências]()
+
 ## 1 Funções (Métodos)
 
 Uma função é um procedimento armazenado, um bloco de código que pode ser executado a partir de um ponto específico de um programa. Na linguagem Java, as funções são chamadas de **métodos**, isso porque a linguagem Java é orientada a objetos e baseada em classes. Em linguagens como esta, um método define um comportamento específico para uma classe, por isso leva esse nome.
