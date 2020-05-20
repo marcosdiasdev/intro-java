@@ -174,9 +174,10 @@ static void imprimeMenorDivisor(int numero) {
         }
     }
     System.out.println(numero);
-    return;
 }
 ```
+
+Perceba que após o término da estrutura de repetição já não faz mais sentido utilizar o comando `return`, já que a função está prestes a ser finalizada.
 
 ### 1.3 Funções recursivas
 
