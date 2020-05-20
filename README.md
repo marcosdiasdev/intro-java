@@ -157,10 +157,11 @@ static int menorDivisor(int numero) {
             return i;
         }
     }
+    return numero;
 }
 ```
 
-Perceba que, no exemplo acima, o comando `return` fará com que a função seja interrompida antes mesmo de a estrutura de repetição chegar a seu fim, caso um divisor válido seja encontrado.
+Perceba que, no exemplo acima, o comando `return` fará com que a função seja interrompida antes mesmo de a estrutura de repetição chegar a seu fim, caso um divisor válido seja encontrado. Caso não seja encontrado nenhum divisor, após o término da estrutura de repetição, a função retornará o próprio `numero`.
 
 Em uma função sem retorno, o comando `return` poderia ser utilizado para interromper a execução da seguinte maneira:
 
@@ -172,6 +173,8 @@ static void imprimeMenorDivisor(int numero) {
             return;
         }
     }
+    System.out.println(numero);
+    return;
 }
 ```
 
