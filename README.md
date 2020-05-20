@@ -177,7 +177,7 @@ static void imprimeMenorDivisor(int numero) {
 }
 ```
 
-Perceba que após o término da estrutura de repetição já não faz mais sentido utilizar o comando `return`, já que a função está prestes a ser finalizada.
+Neste último exemplo, após o término da estrutura de repetição, já não faz mais sentido utilizar o comando `return`, pois a função está prestes a ser finalizada e um retorno não é obrigatório.
 
 ### 1.3 Funções recursivas
 
